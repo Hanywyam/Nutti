@@ -222,8 +222,9 @@
 
 # :boom: Project Timeline
 
+<!--
 <details>
-<summary> 프로젝트 타임라인 정리 [접기/펼치기]</summary>
+<summary> 프로젝트 타임라인 정리 [접기/펼치기]</summary> -->
 
 ## 231221
 
@@ -508,4 +509,4 @@
   - 깃관리자 : 김신영
   - 일러스트 작업 : 김신영
   - 발표 : 허수인
-  </details>
+  <!-- </details> -->
