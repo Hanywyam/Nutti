@@ -2,6 +2,8 @@
 
 ### [PROJECT] Nutti - Exchange diary made of react : <br/>리액트를 이용한 ~~교환일기 앱~~ 일기장 앱 구현
 
+<img src="./작업자료/images/nutti_Screenshot.gif">
+
 > Project site: [click🌐](https://port-0-nutti-9zxht12blqemz5ik.sel4.cloudtype.app/)<br>
 > notion site: [click🌐](https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4)<br>
 > google-sheet site: [click🌐](https://docs.google.com/spreadsheets/d/1Cee6Nal3bsqyeE3vchGoPeeJEQRvkNYe9tQgVdrIvqA/edit?usp=sharing)<br>
@@ -45,21 +47,21 @@
 
 - **라이브러리/프레임워크:** React
 - **기타 도구:** react-router-DOM
-- **언어:** JavaScript / CSS
+- **언어:** JavaScript / CSS(module.css)
 
 **2) BACKEND**
 
 - **런타임환경:** Node.js
-- **프레임워크:** Express, nodemon, mongoose
-- **기타 도구:** express-session, cors, json, axios, sha256 이용한 비밀번호 해싱
-- **배포:** cloudtype
+- **프레임워크:** Express
+- **Express 미들 웨어:** express-session
+- **기타 도구:** nodemon, mongoose, cors, axios, sha256 이용한 비밀번호 해싱
 - **Database:** mongoDB
+- **배포:** cloudtype
 
 **3) 사용 프로그램**
 
 - git / GitHub
 - GitHub pages
-- cloudtype
 - figma
 - Procreate
 - Notion
@@ -99,7 +101,7 @@
 | 회원가입 / 로그인 (Join / Login) | 프로필 선택 / 아이디(닉네임) / 비밀번호 / 이메일 입력 |
 |                                  | 가입 완료 후 첫페이지 이동                            |
 |          일기장 (Month)          | 사용자 설정 일기장 추가                               |
-|      일기 추가 (DailyDiary)      | 새로운 일기 추가                                      |
+|      일기 추가 (DailyDiary)      | 일기 리스트, 새로운 일기 추가                         |
 |       일기 작성 (Postiong)       | 날짜, 제목, 내용 입력                                 |
 |   작성한 일기 보기 (viewPost)    | 작성한 일기 내용 확인, 수정 및 삭제                   |
 
@@ -194,8 +196,8 @@
 
 ### 최종 리뷰
 
-> 초창기 목표는 여러 사용자간의 소통하는 교환 일기장이었으나, 완성하지 못한 아쉬움이 있다. 수업에서 database를 통한 데이터 관리를 통해 여러 데이터를 관리해서 작업해야하는 부분에서 아직은 부족한 부분이 있다는 것을 느꼈다. 그래도 작업을 진행하며 수업시간에 배운 모든 데이터 관리 방법을 총동원하여 해결하려고 노력하였다. useState를 시작으로 redux, local ragistry, MongoDB까지 안정적인 데이터 관리에 힘썼다.
-> 또, 팀작업을 진행하면서 수업시간 이외에는 서로 연락이 잘 되지 않아 진행사항에 대해 빠르고 정확한 소통을 하기가 어려웠다. 하지만 팀원 모두가 각자 맡은 부분이 아니라도 서로의 파트가 해결될 수 있도록 같이 도우며 작업을 진행해서 많은 도움이 되었다.
+<p style="line-height:1.7">초창기 목표는 여러 사용자간의 소통하는 교환 일기장이었으나, 완성하지 못한 아쉬움이 있다. 수업에서 database를 통한 데이터 관리를 통해 여러 데이터를 관리해서 작업해야하는 부분에서 아직은 부족한 부분이 있다는 것을 느꼈다. 그래도 작업을 진행하며 수업시간에 배운 모든 데이터 관리 방법을 총동원하여 해결하려고 노력하였다. useState를 시작으로 redux, local ragistry, MongoDB까지 안정적인 데이터 관리에 힘썼다.
+또, 팀작업을 진행하면서 수업시간 이외에는 서로 연락이 잘 되지 않아 진행사항에 대해 빠르고 정확한 소통을 하기가 어려웠다. 하지만 팀원 모두가 각자 맡은 부분이 아니라도 서로의 파트가 해결될 수 있도록 같이 도우며 작업을 진행해서 많은 도움이 되었다.</p>
 
 # :boom: Project Timeline
 
