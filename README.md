@@ -4,10 +4,6 @@
 
 <img src="./작업자료/images/nutti_Screenshot.gif">
 
-> Project site: [click🌐](https://port-0-nutti-9zxht12blqemz5ik.sel4.cloudtype.app/)<br>
-> notion site: [click🌐](https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4)<br>
-> google-sheet site: [click🌐](https://docs.google.com/spreadsheets/d/1Cee6Nal3bsqyeE3vchGoPeeJEQRvkNYe9tQgVdrIvqA/edit?usp=sharing)<br>
-
 ## 1. 프로젝트 개요
 
 ### 계획 수립 및 설계
@@ -219,6 +215,7 @@
 - 팀작업을 진행하면서 수업시간 이외에는 서로 연락이 잘 되지 않아 진행사항에 대해 빠르고 정확한 소통을 하기가 어려웠다. 하지만 팀원 모두가 각자 맡은 부분이 아니라도 서로의 파트가 해결될 수 있도록 같이 도우며 작업을 진행해서 많은 도움이 되었다.
 
 [Go to Top](#-team-nunettine)
+[프로젝트 보러가기](#💫프로젝트 보러가기)
 
 # :boom: Project Timeline
 
@@ -513,3 +510,10 @@
   - 일러스트 작업 : 김신영
   - 발표 : 허수인
   </details>
+
+# 💫프로젝트 보러가기
+
+> Project site: [click🌐](https://port-0-nutti-9zxht12blqemz5ik.sel4.cloudtype.app/)<br>
+>
+> > notion site: [click🌐](https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4)<br>
+> > google-sheet site: [click🌐](https://docs.google.com/spreadsheets/d/1Cee6Nal3bsqyeE3vchGoPeeJEQRvkNYe9tQgVdrIvqA/edit?usp=sharing)<br>
