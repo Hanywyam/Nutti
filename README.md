@@ -516,5 +516,5 @@
 
 > Project site: <a href="https://port-0-nutti-9zxht12blqemz5ik.sel4.cloudtype.app/" target="_blank">[click🌐]</a>
 >
-> > notion site: <a href="https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4" target="_blank">[click🌐]</a>
+> > notion site: <a href="https://www.notion.so/Nunettine-Team-Project-fac006bb97864857b90d41a0470e2534?pvs=4" target="_blank">[click🌐]</a><br>
 > > google-sheet site: <a href="https://docs.google.com/spreadsheets/d/1Cee6Nal3bsqyeE3vchGoPeeJEQRvkNYe9tQgVdrIvqA/edit?usp=sharing" target="_blank">[click🌐]</a>
