@@ -31,6 +31,8 @@
 **1)** 프로젝트 재설정<br>
 **2)** UI 리디자인<br>
 
+---
+
 <img src="./작업자료/images/nutti_Screenshot.gif">
 
 ## 1. 프로젝트 개요
